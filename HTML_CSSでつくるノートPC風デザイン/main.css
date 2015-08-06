@@ -20,7 +20,7 @@
 }
 
 .display_inner {
-  background: url("/assets/files/logo.png") no-repeat center;
+  background: url("http://exe.codeprep.jp/assets/files/logo.png") no-repeat center;
   background-color: #DDD;
   height: 250px;
   left: 20px;
